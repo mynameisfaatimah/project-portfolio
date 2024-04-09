@@ -33,7 +33,7 @@ const Hero = () => {
             />
         </h1>
         <p className='font-bold text-gray-300 my-6 sm:text-lg lg:text-xl max-w-[200px] md:max-w-[600px ml-1]'>
-                My name is Faatimah and I have 2+ years experience in frontend web development.
+                My name is Faatimah and I have 2+ years experience in frontend and backend web development.
         </p>
     </div>
 
